@@ -15,7 +15,6 @@ jobs:
         with:
           filter: "1772"
           label: false
-          dashboard: true
           dashboard_show_total_reactions: true
           top_issues: true
           top_bugs: true
